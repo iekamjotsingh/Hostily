@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Hostily/static/css/main.41e5064d.chunk.css",
+    "main.js": "/Hostily/static/js/main.6bf81881.chunk.js",
+    "main.js.map": "/Hostily/static/js/main.6bf81881.chunk.js.map",
+    "runtime-main.js": "/Hostily/static/js/runtime-main.4c103978.js",
+    "runtime-main.js.map": "/Hostily/static/js/runtime-main.4c103978.js.map",
+    "static/js/2.13459269.chunk.js": "/Hostily/static/js/2.13459269.chunk.js",
+    "static/js/2.13459269.chunk.js.map": "/Hostily/static/js/2.13459269.chunk.js.map",
+    "index.html": "/Hostily/index.html",
+    "precache-manifest.71a551d1cfd4d4fbae4e68e222cd5c2e.js": "/Hostily/precache-manifest.71a551d1cfd4d4fbae4e68e222cd5c2e.js",
+    "service-worker.js": "/Hostily/service-worker.js",
+    "static/css/main.41e5064d.chunk.css.map": "/Hostily/static/css/main.41e5064d.chunk.css.map",
+    "static/js/2.13459269.chunk.js.LICENSE.txt": "/Hostily/static/js/2.13459269.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4c103978.js",
+    "static/js/2.13459269.chunk.js",
+    "static/css/main.41e5064d.chunk.css",
+    "static/js/main.6bf81881.chunk.js"
+  ]
+}
