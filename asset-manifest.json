@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Hostily/static/css/main.89d2c012.chunk.css",
-    "main.js": "/Hostily/static/js/main.e2516dbc.chunk.js",
-    "main.js.map": "/Hostily/static/js/main.e2516dbc.chunk.js.map",
+    "main.js": "/Hostily/static/js/main.581cc1f6.chunk.js",
+    "main.js.map": "/Hostily/static/js/main.581cc1f6.chunk.js.map",
     "runtime-main.js": "/Hostily/static/js/runtime-main.4c103978.js",
     "runtime-main.js.map": "/Hostily/static/js/runtime-main.4c103978.js.map",
     "static/js/2.99b3419c.chunk.js": "/Hostily/static/js/2.99b3419c.chunk.js",
     "static/js/2.99b3419c.chunk.js.map": "/Hostily/static/js/2.99b3419c.chunk.js.map",
     "index.html": "/Hostily/index.html",
-    "precache-manifest.cb357389339458ee43786f1006a13601.js": "/Hostily/precache-manifest.cb357389339458ee43786f1006a13601.js",
+    "precache-manifest.6f405b4e3702a9ed63e0913e1cdaf6b9.js": "/Hostily/precache-manifest.6f405b4e3702a9ed63e0913e1cdaf6b9.js",
     "service-worker.js": "/Hostily/service-worker.js",
     "static/css/main.89d2c012.chunk.css.map": "/Hostily/static/css/main.89d2c012.chunk.css.map",
     "static/js/2.99b3419c.chunk.js.LICENSE.txt": "/Hostily/static/js/2.99b3419c.chunk.js.LICENSE.txt",
@@ -24,6 +24,6 @@
     "static/js/runtime-main.4c103978.js",
     "static/js/2.99b3419c.chunk.js",
     "static/css/main.89d2c012.chunk.css",
-    "static/js/main.e2516dbc.chunk.js"
+    "static/js/main.581cc1f6.chunk.js"
   ]
 }
